@@ -6,3 +6,4 @@ Apparently some old OpenGL code is broken in Quake 2 and changing "%s" to "%p" a
 This code is only for ref_gl.dll so you shouldn't need the full Quake 2 (3.21) source code.
 
 Hope this helps people with Quake 2 crashing on Windows 10!
+To download the fixed DLL, click Release at the top.
